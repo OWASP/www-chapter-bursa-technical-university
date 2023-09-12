@@ -1,6 +1,6 @@
 ### Bursa Technical University Information
 * [Instagram](#)
-* [LinkedIN](#)
+* [LinkedIn](#)
 * [Youtube](#)
 
 ### Social Links
