@@ -23,6 +23,13 @@ The educational gap in Information Security between colleges and industry indica
 => 	Sharing knowledge and experiences related to a common interest or field <br>
 =>	Collaboration and project development <br>
 
+## Benefits of Attending Meetings
+
+=>  Networking<br>
+=>  Cyber Security knowledge sharing<br>
+=>  Gaining different perspectives<br>
+=>  Have fun!<br>
+
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
