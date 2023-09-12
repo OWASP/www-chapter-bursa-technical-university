@@ -1,5 +1,7 @@
 ### Bursa Technical University Information
-* Provide Group Information
+* [Instagram](#)
+* [LinkedIN](#)
+* [Youtube](#)
 
 ### Social Links
 * [Meetup](#)
