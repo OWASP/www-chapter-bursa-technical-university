@@ -18,10 +18,10 @@ The educational gap in Information Security between colleges and industry indica
 ![Owasp BTU](https://github.com/OWASP/www-chapter-bursa-technical-university/blob/main/assets/images/owasp_btu.png)
 
 ## Our Purpose
-=>	Creating perception of cyber security </br>
-=>  Social connect with others in our society </br>
-=> 	Sharing knowledge and experiences related to a common interest or field </br>
-=>	Collaboration and project development </br>
+=>	Creating perception of cyber security <br>
+=>  Social connect with others in our society <br>
+=> 	Sharing knowledge and experiences related to a common interest or field <br>
+=>	Collaboration and project development <br>
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
