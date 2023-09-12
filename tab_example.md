@@ -1,11 +1,14 @@
 ---
-title: Example
+title: Contact
 layout:  null
 tab: true
 order: 1
 tags: example-tag
 ---
 
-## Example
+## Contact Us
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+[Ahmet Kaşif](https://www.linkedin.com/in/ahmetkasif/)
+[Yusuf Talha Arabacı](https://www.linkedin.com/in/yusufarbc/)
+[Ömer Faruk Kocaefe](https://www.linkedin.com/in/omer-faruk-kocaefe/)
+
