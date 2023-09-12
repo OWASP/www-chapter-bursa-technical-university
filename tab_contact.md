@@ -8,7 +8,7 @@ tags: Contact
 
 ## Contact Us
 
-[Ahmet Kaşif](https://www.linkedin.com/in/ahmetkasif/)
-[Yusuf Talha Arabacı](https://www.linkedin.com/in/yusufarbc/)
-[Ömer Faruk Kocaefe](https://www.linkedin.com/in/omer-faruk-kocaefe/)
-
+[Ahmet Kaşif](https://www.linkedin.com/in/ahmetkasif/) <br>
+[Yusuf Talha Arabacı](https://www.linkedin.com/in/yusufarbc/) <br>
+[Ömer Faruk Kocaefe](https://www.linkedin.com/in/omer-faruk-kocaefe/) <br>
+ 
