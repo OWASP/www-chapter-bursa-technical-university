@@ -3,6 +3,7 @@
 layout: col-sidebar
 title: OWASP Bursa Technical University
 tags: Contact-tag
+tags: Contact-tag
 region: Europe
 meetup-group:
 
