@@ -15,7 +15,7 @@ Welcome to the OWASP Bursa Technical University Chapter. [Bursa Technical Univer
 
 The educational gap in Information Security between colleges and industry indicates that there is a remarkable gap. The awareness of people should be improved to sustain a secure information-centric environment. OWASP BTU took this responsiblity to reach and educate more people with the help of OWASP. Join us to create a secure and trustable tomorrow.
 
-![owasp BTU ](https://github.com/OWASP/www-chapter-bursa-technical-university/assets/77548038/ab28d90f-d352-4842-bd1b-84c007615796)
+![owasp BTU ](/assets/77548038/ab28d90f-d352-4842-bd1b-84c007615796)
 
 ## Our Purpose
 =>	Creating perception of cyber security <br>
