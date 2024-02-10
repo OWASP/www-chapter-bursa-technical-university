@@ -12,7 +12,7 @@ meetup-group:
 
 
 ## Welcome
-Welcome to the OWASP Bursa Technical University Chapter. [Bursa Technical University](https://www.btu.edu.tr/) is a state university founded in 2010 and is located in Bursa/TÜRKİYE.
+Welcome to the OWASP Bursa Technical University Chapter. [Bursa Technical University](https://www.btu.edu.tr/) is a state university founded in 2010 and is located in Bursa/TURKIYE.
 
 The educational gap in Information Security between colleges and industry indicates that there is a remarkable gap. The awareness of people should be improved to sustain a secure information-centric environment. OWASP BTU took this responsiblity to reach and educate more people with the help of OWASP. Join us to create a secure and trustable tomorrow.
 
