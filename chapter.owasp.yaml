@@ -1,0 +1,26 @@
+leaders:
+  - name: Ahmet Kasif
+    email: ahmet.kasif@owasp.org
+  - name: Omer Faruk Kocaefe
+    email: omer.farukkocaefe@owasp.org
+    github: omerfarukkocaefe
+  - name: Yusuf Talha Arabaci
+    email: yusuf.talhaaracbaci@owasp.org
+    github: yusufarbc
+location:
+  country: Turkey
+  country_code: TR
+  region: Bursa
+  city: Bursa
+  latitude: 40.182737
+  longitude: 29.0675481
+name: OWASP Bursa Technical University
+repositories:
+  - name: www-chapter-bursa-technical-university
+    url: https://github.com/OWASP/www-chapter-bursa-technical-university
+    description: OWASP Foundation Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-bursa-technical-university
